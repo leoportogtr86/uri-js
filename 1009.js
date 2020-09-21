@@ -8,3 +8,5 @@ let comissao = (15 / 100) * Number(total_vendas)
 let total = Number(salario_fixo) + Number(comissao)
 
 console.log("TOTAL = R$ " + total.toFixed(2));
+
+//
